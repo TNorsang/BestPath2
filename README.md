@@ -14,6 +14,7 @@ The following **required** functionality is completed:
 - [X] **Create a new dashboard fragment where users can see a summary of their entered data**
 - [X] **Use one of the Navigation UI Views (BottomNavigation, Drawer Layout, Top Bar) to move between the fragments**
 
+![BitFit2Gif](https://github.com/TNorsang/BitFit2/assets/33474625/4e69b2a8-54c8-4456-854e-433ed7246518)
 
 ## License
 
